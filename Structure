@@ -1,0 +1,10 @@
+oromo-ai-learning/
+│
+├── index.html
+├── style.css
+├── script.js
+├── login.html
+├── dashboard.html
+├── quiz.html
+├── chatbot.html
+└── assets/
